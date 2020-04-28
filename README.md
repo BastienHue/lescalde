@@ -8,4 +8,4 @@ Une démo de Git. Si Git foncionne, Vim me donne du fil à retordre.
 
 A cette étape, j'en suis à modifier depuis Github. 
 
-
+Et là, je modifie depuis Git avant la mise en ligne. 
