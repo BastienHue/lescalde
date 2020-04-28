@@ -6,4 +6,6 @@ This directory is a trace of my initiation in developing. There should be progra
 
 Une démo de Git. Si Git foncionne, Vim me donne du fil à retordre. 
 
+A cette étape, j'en suis à modifier depuis Github. 
+
 
